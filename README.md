@@ -26,9 +26,11 @@ As I reflect on the research, it becomes evident that the exploration could be e
 This exercise also highlighted the need to acknowledge unexpected findings. For instance, while I anticipated a U.S. bias in international news, the degree to which it permeated local and domestic news was noteworthy. It prompts a critical examination of the sources and platforms used for news consumption, raising questions about the impact of bias and the necessity for diverse perspectives in understanding global affairs.
 
 
- **Download Results**
+**Download Results**
 
-- [Download assets folder with collected data](https://github.com/eazebra/458lab2/archive/refs/tags/zip.zip)
+- [Download Seattle News CSV](./assets/seattlecloud.csv)
+- [Download US News CSV](./assets/uscloud.csv)
+- [Download World News CSV](./assets/worldcloud.csv)
 
 Please use the provided link to access the spreadsheets containing the collected data.
 
