@@ -1,5 +1,6 @@
 # News: Locally, Domestically, Internationally
 
+
 **Narrative:**
 
 In an effort to understand the dynamics of news coverage at different scales, I embarked on a comparison of local, domestic, and international news using the search terms "Seattle news," "US news," and "world news." The motivation behind this exploration was to delve into the focus and themes prevalent in news subjects on both a small and large scale, contemplating how these themes could potentially shape public perception.
@@ -23,3 +24,11 @@ The observed patterns could be attributed to the dynamic nature of news. Events 
 As I reflect on the research, it becomes evident that the exploration could be enhanced in the future. To mitigate the bias inherent in U.S.-centric perspectives, incorporating additional search terms that provide a more global viewpoint is crucial. Utilizing unbiased terms and perhaps exploring news platforms beyond YouTube might offer a more comprehensive understanding. Alternately, comparing search results on YouTube with those from other websites or employing VPNs from different countries could further enrich the analysis.
 
 This exercise also highlighted the need to acknowledge unexpected findings. For instance, while I anticipated a U.S. bias in international news, the degree to which it permeated local and domestic news was noteworthy. It prompts a critical examination of the sources and platforms used for news consumption, raising questions about the impact of bias and the necessity for diverse perspectives in understanding global affairs.
+
+
+ **Download Results**
+
+- [Download assets folder with collected data](https:/eazebra.github.io/458lab2/assets/)
+
+Please use the provided link to access the spreadsheets containing the collected data.
+
