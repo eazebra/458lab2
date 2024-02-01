@@ -28,7 +28,7 @@ This exercise also highlighted the need to acknowledge unexpected findings. For 
 
  **Download Results**
 
-- [Download assets folder with collected data](https:/eazebra.github.io/458lab2/assets/)
+- [Download assets folder with collected data](https://github.com/eazebra/458lab2/archive/refs/tags/zip.zip)
 
 Please use the provided link to access the spreadsheets containing the collected data.
 
