@@ -28,9 +28,9 @@ This exercise also highlighted the need to acknowledge unexpected findings. For 
 
 **Download Results**
 
-- [Download Seattle News CSV](./assets/seattlecloud.csv?raw=true)
-- [Download US News CSV](./assets/uscloud.csv?raw=true)
-- [Download World News CSV](./assets/worldcloud.csv?raw=true)
+- [Download Seattle News CSV](./assets/seattlenews.csv?raw=true)
+- [Download US News CSV](./assets/usnews.csv?raw=true)
+- [Download World News CSV](./assets/worldnews.csv?raw=true)
 
 Please use the provided link to access the spreadsheets containing the collected data.
 
